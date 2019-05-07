@@ -27,3 +27,6 @@ Generating PDF for file 1DGBL.xls
 PDF creation time:
 18-08-2017 11:02:58
 ```
+
+
+[<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png">](https://www.buymeacoffee.com/0nJ32Xg)
